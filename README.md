@@ -1,5 +1,5 @@
 ## JSON server for the SheTech JS bootcamp
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
+Served here: [https://my-json-server.typicode.com/shetechitaly/js-bootcamp-server](https://my-json-server.typicode.com/shetechitaly/js-bootcamp-server)
 
-Poweered by Typicode[https://github.com/typicode]
+Powered by My JSON Server(https://my-json-server.typicode.com/)
