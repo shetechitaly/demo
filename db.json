@@ -1,7 +1,7 @@
 {
   "posts": [
-    { "body": "It is a very nice day", "title": "Second day of workshop" },
-    { "body": "Coding like there's no tomorrow!", "title": "What are we doing?" },
-    { "body": "...never been better!", "title": "How do we feel..." }
+    { "id": 1, "body": "It is a very nice day", "title": "Second day of workshop" },
+    { "id": 2, "body": "Coding like there's no tomorrow!", "title": "What are we doing?" },
+    { "id": 3, "body": "...never been better!", "title": "How do we feel..." }
   ]
 }
